@@ -9,7 +9,7 @@
   "dependencies": {
     "request": "~2.27.0",
     "kew": "~0.2.2",
-    "parse-link-header": "^0.1.0"
+    "parse-link-header": "~0.1.0"
   },
   "devDependencies": {
     "mocha": "*",
